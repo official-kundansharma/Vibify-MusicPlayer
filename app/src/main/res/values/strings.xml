@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vibify</string>
+    <string name="no_song_availabe">no_song_availabe</string>
+    <string name="songs">Songs</string>
+    <string name="no_song_avail" />
+    <string name="noMusicText" />
+    <string name="musicicon">musicIcon</string>
+    <string name="music">Music</string>
+    <string name="music_icon">Music_icon</string>
+</resources>
