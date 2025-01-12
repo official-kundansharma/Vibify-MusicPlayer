@@ -10,5 +10,5 @@ The app automatically imports all music from your device, offering a straightfor
  
  ![App View](https://github.com/official-kundansharma/Vibify-MusicPlayer/blob/main/Image/image1.png)
 
-<img src="https://github.com/official-kundansharma/Vibify-MusicPlayer/blob/main/Image/img4.png" alt="Description of Image" width="500" height="300">
+<img src="https://github.com/official-kundansharma/Vibify-MusicPlayer/blob/main/Image/img4.png" alt="Description of Image" width="300" height="500">
 
