@@ -14,3 +14,18 @@ The app automatically imports all music from your device, offering a straightfor
   <img src="https://github.com/official-kundansharma/Vibify-MusicPlayer/blob/main/Image/img3.png" alt="Screenshot 3" width="200" height="350">
   <img src="https://github.com/official-kundansharma/Vibify-MusicPlayer/blob/main/Image/img4.png" alt="Screenshot 4" width="200" height="350">
 </p>
+
+
+## Main Features:
+
+- **Offline Music Playback**: Listen to your songs without needing an internet connection.
+- **Automatic Song Import**: Automatically imports all songs from your device’s storage.
+- **Simple Controls**: Includes basic functions such as play, pause, and next track.
+- **Running Text Indicator**: While a song is playing, the running text color is highlighted in red.
+- **Ad-Free Experience**: Enjoy music without any interruptions from ads.
+
+- ## Open Source Contributors:
+
+This project is open for contributions from developers who are interested in adding bug fixes, improvements, or new features.  
+Feel free to fork this repository and submit a pull request!
+
