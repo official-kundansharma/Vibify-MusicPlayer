@@ -5,3 +5,7 @@ The app automatically imports all music from your device, offering a straightfor
 <br>
  Enjoy your music with basic functionality, including play, pause, and next controls, and a unique touch<br>
  when a song is playing, the running text color turns red to indicate the current track.
+
+ ## Screenshots:
+ 
+
