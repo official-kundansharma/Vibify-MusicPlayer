@@ -6,9 +6,11 @@ The app automatically imports all music from your device, offering a straightfor
  Enjoy your music with basic functionality, including play, pause, and next controls, and a unique touch<br>
  when a song is playing, the running text color turns red to indicate the current track.
 
- ## Screenshots:
- 
- ![App View](https://github.com/official-kundansharma/Vibify-MusicPlayer/blob/main/Image/image1.png)
+## Screenshots:
 
-<img src="https://github.com/official-kundansharma/Vibify-MusicPlayer/blob/main/Image/img4.png" alt="Description of Image" width="300" height="500">
-
+<p align="center">
+  <img src="https://github.com/official-kundansharma/Vibify-MusicPlayer/blob/main/Image/image1.png" alt="Screenshot 1" width="200" height="350">
+  <img src="https://github.com/official-kundansharma/Vibify-MusicPlayer/blob/main/Image/img2.png" alt="Screenshot 2" width="200" height="350">
+  <img src="https://github.com/official-kundansharma/Vibify-MusicPlayer/blob/main/Image/img3.png" alt="Screenshot 3" width="200" height="350">
+  <img src="https://github.com/official-kundansharma/Vibify-MusicPlayer/blob/main/Image/img4.png" alt="Screenshot 4" width="200" height="350">
+</p>
