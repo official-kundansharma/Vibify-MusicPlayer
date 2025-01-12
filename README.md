@@ -7,5 +7,6 @@ The app automatically imports all music from your device, offering a straightfor
  when a song is playing, the running text color turns red to indicate the current track.
 
  ## Screenshots:
- 
+ ![App View](https://github.com/official-kundansharma/Vibify-MusicPlayer/blob/main/Image/image1.png)
+
 
